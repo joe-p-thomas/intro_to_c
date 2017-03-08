@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Find the factorial of a number.
 int main() {
   int i, n;
   unsigned long int ans = 1;
